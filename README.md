@@ -5,9 +5,9 @@ Faster R-CNN is a method for object detection that uses region proposal. In this
 ## Objectives
 Apply Object detection with Faster R-CNN to classify predetermined objects using objects name and/or to use the likelihood of the object.
 
-Object detection with Faster R-CNN
-Import Libraries and Define Auxiliary Functions
-Load Pre-trained Faster R-CNN
-Object Localization
-Object Detection
-Test Model With An Uploaded Image
+1 .Object detection with Faster R-CNN
+2. Import Libraries and Define Auxiliary Functions
+3 .Load Pre-trained Faster R-CNN
+4. Object Localization
+5. Object Detection
+6. Test Model With An Uploaded Image
